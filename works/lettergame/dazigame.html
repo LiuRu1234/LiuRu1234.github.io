@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>letterGame</title>
     <style>
         html,body{
             height: 100%;
@@ -101,16 +101,23 @@
             animation: bubble-anim 2s;
         }
         .phb{
-            width: 150px;
+            width: 180px;
             height: auto;
-            background: #fff;
-            border-radius: 10px;
+            /*background: #fff;*/
+            /*border-radius: 10px;*/
             margin: 0 auto;
             color: #000;
+            list-style: none;
+            padding: 0;
         }
         .phb li{
+            width: 180px;
+            margin: 20px auto;
             font-size: 16px;
             color: #333;
+            height: 20px;
+            border-radius: 5px;
+            background: rgba(255,255,255,0.8);
         }
 
         @keyframes shake {
@@ -156,9 +163,9 @@
             <div class="btn" id="pause">暂停</div>
 
             <ul class="phb">排行榜
-                <li>第一名<span></span></li>
-                <li>第二名<span></span></li>
-                <li>第三名<span></span></li>
+                <li>第一名：<span></span>分</li>
+                <li>第二名：<span></span>分</li>
+                <li>第三名：<span></span>分</li>
             </ul>
         </div>
     </div>

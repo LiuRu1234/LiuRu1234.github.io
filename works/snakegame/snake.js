@@ -35,9 +35,13 @@
             // location.reload();
         }
         //蛇吃食物
+
         if(head.hasClass("food")){
             head.removeClass("food");
             createFood();
+            let n=snakeArr.length-3;
+            $("#scor").html(n)
+            console.log(n)
         }else {
             snakeArr.shift();
         }
@@ -75,7 +79,6 @@
         st=setInterval(move,300);
     })
     $(document).keydown(function (e) {
-        console.log(e.keyCode)
         if(e.keyCode===13){
             $(".alert").hide();
             location.reload();//重新加载页面
@@ -87,7 +90,6 @@
         st=setInterval(move,300);
     })
     $(document).keydown(function (e) {
-        console.log(e.keyCode)
         if(e.keyCode===32){
             st=setInterval(move,300);
         }
@@ -97,10 +99,7 @@
         clearInterval(st);
     })
     //得分
-    $("#state").html(function (index,n) {
-        return n;
-    })
-    console.log(snakeHead)
+
 
 
 

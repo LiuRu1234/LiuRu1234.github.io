@@ -16,18 +16,22 @@
 body{
     margin: 0;
     padding: 0;
-    background: url("img/BackGround.jpg") no-repeat;
-    background-size: 1400px 880px;
-    background-position: -30px -165px;
+    background: url("img/back.jpg");
+    background-size: cover;
+}
+body .pic{
+    position: absolute;
+    bottom: 50px;
+    left: 80px;
 }
 .scene{
     width: 500px;
     height: 500px;
     border: 2px solid #fff;
     box-shadow: 2px 2px 2px 2px #666;
-    /*background: url("img/back9.jpg");*/
-    /*background-size: 700px 550px;*/
-    background: rgba(0,0,0,0.4);
+    background: rgba(0,0,0,0.3);
+    /*background: url("img/bg.png") no-repeat;*/
+    background-size: 500px 500px;
     margin: 0 auto;
 }
 .block{
@@ -41,8 +45,8 @@ body{
 .snakebody{
     width: 25px;
     height: 25px;
-    /*background: #ffc208;*/
-    background: url("img/body.png");
+    background: -webkit-linear-gradient(right,#009110,#a2f0c0);
+    /*background: url("img/body.png");*/
     border-radius: 50%;
     background-size: 25px 25px;
 }
@@ -50,12 +54,12 @@ body{
     width: 25px;
     height: 25px;
     /*background: #ff4c4a;*/
-    background: url("img/head.png");
+    background: url("img/shead.png");
     border-radius: 65%;
     background-size: 25px 25px;
 }
 .food{
-    background: url("img/caomei.png");
+    background: url("img/sfood.png");
     background-size: 25px 25px;
     border-radius: 70%;
 }

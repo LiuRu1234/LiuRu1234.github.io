@@ -7,8 +7,8 @@
         main_fun: function () {
 
             /*====================================
-             EASING PLUGIN SCRIPTS 
-            ======================================*/
+             EASING PLUGIN SCRIPTS
+             ======================================*/
             $(function () {
                 $('.move-me a').bind('click', function (event) { //just pass move-me in design and start scrolling
                     var $anchor = $(this);
@@ -19,8 +19,8 @@
                 });
             });
             /*====================================
-            SKILL CHART SCRIPTS 
-           ======================================*/
+             SKILL CHART SCRIPTS
+             ======================================*/
             $(function () {
                 $('.chart').easyPieChart({
                     easing: 'easeOutBounce',
@@ -31,36 +31,35 @@
                     lineWidth: 10, //WIDTH OF STRIP OF SKILL CHART
                     size: 150, //WIDTH - HEIGHT OF SKILL CHART(SHOULD BE IN SQUARE)
                 });
-
             });
             /*====================================
-           DOWNLOAD RESUME SECTION TOOL TIP SCRIPTS 
-          ======================================*/
+             DOWNLOAD RESUME SECTION TOOL TIP SCRIPTS
+             ======================================*/
             $(function () {
                 $('a[title]').tooltip();
             });
             /*====================================
-       TESTIMONIAL SECTION SCRIPTS 
-       ======================================*/
+             TESTIMONIAL SECTION SCRIPTS
+             ======================================*/
             $('#testimonial-main').carousel({
                 interval: 4000 //TIME IN MILLI SECONDS
             })
             /*====================================
-          PRETTYPHOTO FUNCTION
-          ======================================*/
+             PRETTYPHOTO FUNCTION
+             ======================================*/
 
             $("a.preview").prettyPhoto({
                 social_tools: false
             });
             /*====================================
-             WOW PLUGIN SCRIPTS 
-            ======================================*/
+             WOW PLUGIN SCRIPTS
+             ======================================*/
             new WOW().init();
-        
-	
+
+
             /*====================================
-            WRITE YOUR SCRIPTS HERE
-            ======================================*/
+             WRITE YOUR SCRIPTS HERE
+             ======================================*/
 
 
 
