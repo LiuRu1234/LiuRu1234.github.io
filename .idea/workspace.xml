@@ -2,65 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef0882e8-8582-4afe-973a-7ca34e72b9d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/Social/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/Social/google-plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/Social/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/app.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/canvas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/dazi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/big/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/big/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/big/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/big/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/big/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/big/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/big/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/big/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/small/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/small/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/small/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/small/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/small/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/small/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/small/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/portfolio/small/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/qiye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/sad1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/she.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/tianmao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/todolist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/user.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/user2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/wheater.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/xiaomi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/back2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/back3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/back5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/back6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/back8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/body.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/body.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/caomei.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/works/snakegame/img/food3.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/sad.jpg" afterPath="$PROJECT_DIR$/works/personalpage/assets/img/sad.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/personalpage/assets/img/smile.jpg" afterPath="$PROJECT_DIR$/works/personalpage/assets/img/smile.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/snakegame/img/back.jpg" afterPath="$PROJECT_DIR$/works/snakegame/img/back.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/canvas/huaban.html" afterPath="$PROJECT_DIR$/works/canvas/huaban.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/lettergame/dazigame.html" afterPath="$PROJECT_DIR$/works/lettergame/dazigame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/personalpage/assets/css/style.css" afterPath="$PROJECT_DIR$/works/personalpage/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/personalpage/assets/js/custom.js" afterPath="$PROJECT_DIR$/works/personalpage/assets/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/personalpage/assets/js/styleSwitcher.js" afterPath="$PROJECT_DIR$/works/personalpage/assets/js/styleSwitcher.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/personalpage/index.html" afterPath="$PROJECT_DIR$/works/personalpage/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/snakegame/snake.css" afterPath="$PROJECT_DIR$/works/snakegame/snake.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/snakegame/snake.html" afterPath="$PROJECT_DIR$/works/snakegame/snake.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/snakegame/snake.js" afterPath="$PROJECT_DIR$/works/snakegame/snake.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/todolist/index.html" afterPath="$PROJECT_DIR$/works/todolist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/weather/weather.html" afterPath="$PROJECT_DIR$/works/weather/weather.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,12 +13,42 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="dazigame.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/works/lettergame/dazigame.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/personalpage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="167" column="38" lean-forward="false" selection-start-line="167" selection-start-column="38" selection-end-line="167" selection-end-column="38" />
+            <state relative-caret-position="-1710">
+              <caret line="52" column="128" lean-forward="false" selection-start-line="52" selection-start-column="128" selection-end-line="52" selection-end-column="128" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="huaban.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/works/canvas/huaban.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canvas.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/canvas/canvas.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="draw.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/canvas/draw.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -146,7 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -178,7 +149,101 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="todolist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todolist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakegame" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personalpage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lettergame" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiuRu1234.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="canvas" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,6 +259,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,6 +326,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -296,22 +368,22 @@
       <workItem from="1503028858039" duration="601000" />
       <workItem from="1503036702507" duration="636000" />
       <workItem from="1503039843260" duration="618000" />
-      <workItem from="1503558511328" duration="24356000" />
+      <workItem from="1503558511328" duration="24711000" />
+      <workItem from="1503621587721" duration="4207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26211000" />
+    <option name="totallyTimeSpent" value="30773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22390318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19894099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -323,6 +395,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -337,7 +410,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Personal page/js/index.js">
+    <entry file="file://$PROJECT_DIR$/works/lettergame/dazigame.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -349,15 +422,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/canvas/draw.js">
+    <entry file="file://$PROJECT_DIR$/Personal page/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -365,7 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -373,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4590">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -381,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3180">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -389,7 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -397,7 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,7 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4050">
           <caret line="6" column="310" lean-forward="true" selection-start-line="6" selection-start-column="310" selection-end-line="6" selection-end-column="310" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -413,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="4" column="24304" lean-forward="false" selection-start-line="4" selection-start-column="24298" selection-end-line="4" selection-end-column="24304" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -421,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="1" column="5583" lean-forward="true" selection-start-line="1" selection-start-column="5583" selection-end-line="1" selection-end-column="5583" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -429,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,31 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="35" column="35" lean-forward="false" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works/snakegame/snake.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works/snakegame/snake.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works/personalpage/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="53" column="39" lean-forward="true" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,29 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/snakegame/snake.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#611#807#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/works/tianmao/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works/todolist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,7 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -527,22 +543,98 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/lettergame/dazigame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="165" column="43" lean-forward="true" selection-start-line="165" selection-start-column="43" selection-end-line="165" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/snakegame/snake.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/snakegame/snake.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/todolist/js/todolist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4680">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1502619881910" expanded="true" signature="1507:1769" ph="..." />
+            <marker date="1502619881910" expanded="true" signature="1619:1748" ph="..." />
+            <marker date="1502619881910" expanded="true" signature="1665:1673" ph="..." />
+            <marker date="1502619881910" expanded="true" signature="1858:1866" ph="..." />
+            <marker date="1502619881910" expanded="true" signature="1946:1954" ph="..." />
+            <marker date="1502619881910" expanded="true" signature="2032:2294" ph="..." />
+            <marker date="1502619881910" expanded="true" signature="2144:2273" ph="..." />
+            <marker date="1502619881910" expanded="true" signature="2190:2198" ph="..." />
+            <marker date="1502619881910" expanded="true" signature="2383:2391" ph="..." />
+            <marker date="1502619881910" expanded="true" signature="2471:2479" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/todolist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/snakegame/snake.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#611#807#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/personalpage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1710">
+          <caret line="52" column="128" lean-forward="false" selection-start-line="52" selection-start-column="128" selection-end-line="52" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/canvas/canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/canvas/draw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/works/canvas/huaban.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works/lettergame/dazigame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="167" column="38" lean-forward="false" selection-start-line="167" selection-start-column="38" selection-end-line="167" selection-end-column="38" />
+        <state relative-caret-position="129">
+          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
           <folding />
         </state>
       </provider>
