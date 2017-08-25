@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef0882e8-8582-4afe-973a-7ca34e72b9d0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ef0882e8-8582-4afe-973a-7ca34e72b9d0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,21 +12,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/personalpage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1710">
-              <caret line="52" column="128" lean-forward="false" selection-start-line="52" selection-start-column="128" selection-end-line="52" selection-end-column="128" />
+            <state relative-caret-position="360">
+              <caret line="386" column="30" lean-forward="true" selection-start-line="386" selection-start-column="30" selection-end-line="386" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="huaban.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="huaban.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works/canvas/huaban.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+            <state relative-caret-position="99">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,12 +73,12 @@
         <option value="$PROJECT_DIR$/works/snakegame/snake.css" />
         <option value="$PROJECT_DIR$/works/snakegame/snake.js" />
         <option value="$PROJECT_DIR$/works/personalpage/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/works/personalpage/index.html" />
         <option value="$PROJECT_DIR$/works/snakegame/snake.html" />
         <option value="$PROJECT_DIR$/works/todolist/index.html" />
         <option value="$PROJECT_DIR$/works/weather/weather.html" />
         <option value="$PROJECT_DIR$/works/canvas/huaban.html" />
         <option value="$PROJECT_DIR$/works/lettergame/dazigame.html" />
+        <option value="$PROJECT_DIR$/works/personalpage/index.html" />
       </list>
     </option>
   </component>
@@ -369,12 +367,12 @@
       <workItem from="1503036702507" duration="636000" />
       <workItem from="1503039843260" duration="618000" />
       <workItem from="1503558511328" duration="24711000" />
-      <workItem from="1503621587721" duration="4207000" />
+      <workItem from="1503621587721" duration="4804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30773000" />
+    <option name="totallyTimeSpent" value="31370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -607,14 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/personalpage/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1710">
-          <caret line="52" column="128" lean-forward="false" selection-start-line="52" selection-start-column="128" selection-end-line="52" selection-end-column="128" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/works/canvas/canvas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -631,10 +621,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Personal page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/works/canvas/huaban.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        <state relative-caret-position="99">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/personalpage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="386" column="30" lean-forward="true" selection-start-line="386" selection-start-column="30" selection-end-line="386" selection-end-column="30" />
           <folding />
         </state>
       </provider>
