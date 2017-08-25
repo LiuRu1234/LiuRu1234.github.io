@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef0882e8-8582-4afe-973a-7ca34e72b9d0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/canvas/canvas.js" afterPath="$PROJECT_DIR$/works/canvas/canvas.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/canvas/huaban.html" afterPath="$PROJECT_DIR$/works/canvas/huaban.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,21 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="huaban.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="huaban.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works/canvas/huaban.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="159">
+              <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="canvas.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="canvas.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/canvas/canvas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -81,6 +82,7 @@
         <option value="$PROJECT_DIR$/works/lettergame/dazigame.html" />
         <option value="$PROJECT_DIR$/works/personalpage/index.html" />
         <option value="$PROJECT_DIR$/works/canvas/huaban.html" />
+        <option value="$PROJECT_DIR$/works/canvas/canvas.js" />
       </list>
     </option>
   </component>
@@ -275,12 +277,12 @@
       <workItem from="1503036702507" duration="636000" />
       <workItem from="1503039843260" duration="618000" />
       <workItem from="1503558511328" duration="24711000" />
-      <workItem from="1503621587721" duration="5839000" />
+      <workItem from="1503621587721" duration="6327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32405000" />
+    <option name="totallyTimeSpent" value="32893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -537,18 +539,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/canvas/canvas.js">
+    <entry file="file://$PROJECT_DIR$/works/canvas/huaban.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="159">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/canvas/huaban.html">
+    <entry file="file://$PROJECT_DIR$/works/canvas/canvas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="60">
+          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
           <folding />
         </state>
       </provider>

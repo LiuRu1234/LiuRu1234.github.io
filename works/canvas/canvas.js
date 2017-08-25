@@ -58,22 +58,6 @@
         canvasHistory=[];
     }
     //橡皮
-    earser.onclick=function () {
-        canvas.onmousedown=function () {
-            canvas.onmousemove=function (e) {
-                let [ox,oy]=[e.offsetX,e.offsetY]
-                cobj.clearRect(ox-5,oy-5,10,10);
-            }
-            canvas.onmouseup=function () {
-                canvas.onmousemove=null;
-                draw();
-            }
-        }
-        cobj.clearRect(0,0,w,h);
-        if(canvasHistory.length!==0){
-            cobj.putImageData(canvasHistory[canvasHistory.length-1],0,0,0, 0,w,h);
-        }
-    }
 
     //创建画布
     createBtn.onclick=function () {
