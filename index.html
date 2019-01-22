@@ -5,17 +5,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>liuru</title>
+    <link rel="icon" href="./favicon.png">
 </head>
 <style>
+    *{
+        margin: 0;padding: 0;
+    }
+    .content{
+        width: 100vw;
+        height: 100vh;
+        background: url(./background.jpg) no-repeat;
+        background-size: cover;
+    }
     .title{
         text-align: center;
         font-size: 30px;
-        padding-top: 100px;
+        padding: 100px 0;
+    }
+    .link{
+        width: 50%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+    }
+    .link a{
+        font-size: 20px;
     }
 </style>
 <body>
-    <div class="title">
-        welcome to my github
+    <div class="content">
+        <div class="title">
+            welcome to my github
+        </div>
+        <div class="link">
+            <a href="https://LiuRu1234.github.io/css-tricks/" target="_blank">css-tricks</a>
+            <a href="https://LiuRu1234.github.io/emulate/canvas/huaban.html" target="_blank">画板</a>
+            <a href="https://LiuRu1234.github.io/emulate/todolist/index.html" target="_blank">todolist</a>
+            <a href="https://LiuRu1234.github.io/emulate/webapp/index.html" target="_blank">todolist移动端</a>
+        </div>
     </div>
 </body>
 </html>
